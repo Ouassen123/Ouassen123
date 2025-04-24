@@ -4,11 +4,11 @@
 
 
 
-- 🌱 I’m currently learning **MEAN Stack development and UX/UI Design**
+- 🌱 I’m currently learning **MEAN Stack development and AI**
 
 - 👯 I’m looking to collaborate on **MEAN Stack / UX Projects**
 
-- 💬 Ask me about **VueJs , Angular , Reactjs ...**
+- 💬 Ask me about **Python , Machine Learning , VueJs , Angular , Reactjs ...**
 
 - 📫 How to reach me **ridaouassen3@gmail.com**
 
