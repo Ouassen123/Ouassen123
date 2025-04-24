@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **MEAN Stack development and AI**
+- 🌱 I’m currently learning **MEAN Full Stack development and AI**
 
 - 👯 I’m looking to collaborate on **MEAN Stack / UX Projects**
 
