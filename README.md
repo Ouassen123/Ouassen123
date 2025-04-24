@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rida Ouassen</h1>
-<h3 align="center">A passionate Software Engineering Student from Morocco</h3>
+<h3 align="center">A passionate Software Engineering from Morocco</h3>
 <img align="right" alt="Coding" width="300"  src="https://i.pinimg.com/originals/79/48/0e/79480e87d9fcb11532f5fa7100f1644d.gif">
 
 
